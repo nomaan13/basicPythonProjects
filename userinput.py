@@ -14,7 +14,7 @@ def user_choice():
     # Digit or within_range==False
     
     while choice.isdigit() == False or within_range==False:
-        choice = input("Please enter a number (0-10): ")
+        choice = input("Please enter a Number (0-10): ")
         
         
     # Digit check
