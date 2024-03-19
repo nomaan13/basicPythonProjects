@@ -6,7 +6,7 @@ from turtle import clear
 from click import command
 
 root =Tk()
-root.title("Calculator")
+root.title("CALCULATOR")
 root.geometry("500x600+100+200")
 root.resizable(False,False)
 root.configure(bg="#17161b")
